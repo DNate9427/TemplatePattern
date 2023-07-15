@@ -1,0 +1,15 @@
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\bin\Debug\net6.0\DuckSort.exe
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\bin\Debug\net6.0\DuckSort.deps.json
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\bin\Debug\net6.0\DuckSort.runtimeconfig.json
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\bin\Debug\net6.0\DuckSort.dll
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\bin\Debug\net6.0\DuckSort.pdb
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\obj\Debug\net6.0\DuckSort.csproj.AssemblyReference.cache
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\obj\Debug\net6.0\DuckSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\obj\Debug\net6.0\DuckSort.AssemblyInfoInputs.cache
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\obj\Debug\net6.0\DuckSort.AssemblyInfo.cs
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\obj\Debug\net6.0\DuckSort.csproj.CoreCompileInputs.cache
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\obj\Debug\net6.0\DuckSort.dll
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\obj\Debug\net6.0\refint\DuckSort.dll
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\obj\Debug\net6.0\DuckSort.pdb
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\obj\Debug\net6.0\DuckSort.genruntimeconfig.cache
+C:\Users\DustinNation\source\repos\TemplatePattern\DuckSort\obj\Debug\net6.0\ref\DuckSort.dll

@@ -1,0 +1,15 @@
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.exe
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.deps.json
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.runtimeconfig.json
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.dll
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\bin\Debug\net6.0\TemplatePattern.pdb
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.csproj.AssemblyReference.cache
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfoInputs.cache
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfo.cs
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.dll
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\obj\Debug\net6.0\refint\TemplatePattern.dll
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.pdb
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\obj\Debug\net6.0\TemplatePattern.genruntimeconfig.cache
+C:\Users\DustinNation\source\repos\TemplatePattern\TemplatePattern\obj\Debug\net6.0\ref\TemplatePattern.dll
